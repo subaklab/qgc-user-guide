@@ -7,18 +7,18 @@
 <br>
 <br>
 <br>
-![](images/quickstart/1_2_ic_autonomous_flight_.png) Switch to the autonomous flight tab to plan a new mission.
+![](images/quickstart/1_2_ic_autonomous_flight_.png) 새로운 미션을 생성할려면 자동 비행 탭으로 이동
 <br>
 <br>
 <br>
-![](images/quickstart/1_2_ic_autonomous_flight_new_waypoint.png) Click here to create a waypoint.
+![](images/quickstart/1_2_ic_autonomous_flight_new_waypoint.png) waypoint 생성을 위해 여기를 클릭
 <br>
 <br>
 <br>
-![](images/quickstart/1_2_ic_autonomous_flight_mao_position.png) Then click on the map to position it. Repeat until you complete the entire mission route.
+![](images/quickstart/1_2_ic_autonomous_flight_mao_position.png) 지도에 클릭해서 위치 표시. 전체 미션 경로를 완료할 때까지 반복
 <br>
 <br>
-If necessary, edit the waypoints through this dialogs.
+만약 필요하면, 여기 다이얼로그를 통해 waypoint를 수정
 ![](images/quickstart/1_2_autonomous_flight_screen_edit_waypoints.png)
 <br>
 <br>
@@ -26,4 +26,4 @@ If necessary, edit the waypoints through this dialogs.
 
 ![](images/quickstart/1_2_autonomous_flight_screen_send_to_vehicle.jpg)
 
-![](images/quickstart/1_2_ic_autonomous_flight_screen_send_to_vehicle.png) With all waypoints defined, click on transmission icon to send the data to the vehicle.
+![](images/quickstart/1_2_ic_autonomous_flight_screen_send_to_vehicle.png) 모든 waypoint를 정의하면, 클릭해서 데이터를 비행체에 보내기
