@@ -1,10 +1,10 @@
-# Summary
+# 요약
 
-* [Overview](README.md)
+* [개요](README.md)
 * [Quick start](QuickStart/QuickStart.md)
-* [Download and Install](download_and_install.md)
-	* [Release Notes](ReleaseNotes.md)
-	* [Daily Build New Features](DailyBuildChanges/DailyBuildNewFeatures.md)
+* [다운로드 및 설치](download_and_install.md)
+	* [릴리즈 노트](ReleaseNotes.md)
+	* [Daily Build 새로운 기능](DailyBuildChanges/DailyBuildNewFeatures.md)
 * [Fly](FlyView/FlyView.md)
 * [Plan](PlanView/PlanView.md)
 	* [GeoFence](PlanView/PlanGeoFence.md)
@@ -23,4 +23,4 @@
    * [Parameters](SetupView/Parameters.md)
 * [Settings](SettingsView/SettingsView.md)
 	* [Offline Maps](SettingsView/OfflineMaps.md)
-* [Support](Support/Support.md)
+* [지원](Support/Support.md)
