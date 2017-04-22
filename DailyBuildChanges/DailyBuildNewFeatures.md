@@ -1,11 +1,12 @@
-# Daily Build Major Changes
+# Daily Build 주요 변경사항
 
 ## Plan View - Mission Settings
-When planning a mission the first item in the mission list on the right of the screen is Mission Settings. This allows you to specify your planned home positions as well as specify vehicle information associated with the planned mission.
+미션을 생성할 때, 화면 오른쪽에 있는 미션 목록 중에서 첫번째 아이템이 Mission Settings입니다. 비행체 정보를 지정하는 것 이외에 home position을 지정할 수 있습니다.
 
 <img src="MissionSettings.jpg" style="width: 150px;"/>
 
 ### Planned Home Position
+planned home position을 통해 미션을 만드는 동안 비행체의 home position을 시뮬레이션이 가능합니다. 이륙부터 미션 완료까지 waypoint trajectory를 볼 수 있습니다. 이것은 "planned" home position라는 것을 명심하세요. 그리고 비행체를 구성시키기 위해서   
 The planned home position allows you to simulate the vehicle's home position while planning a mission. This way you see that waypoint trajectory for your vehicle from takeoff to mission completion. Keep in mind that this is the "planned" home position and you should place it where you plan to start the vehicle from. The actual home position of a vehicle is set by the vehicle itself when arming.
 
 ### Vehicle Info
@@ -61,7 +62,7 @@ The PX4 Pro SITL simulator does not support this. Although it may be possible wi
 
 ## AutoLoad Mission on Vehicle Connect (WIP)
 
-In the Settings / General page there is a new item for "AutoLoad mission directory:". By checking this item and specifying a directory, when QGC connects to a vehicle it will automatically upload a mission to the vehicle. The mission file must be named "AutoLoad#.mission" where the # is replaced with the vehicle id. 
+In the Settings / General page there is a new item for "AutoLoad mission directory:". By checking this item and specifying a directory, when QGC connects to a vehicle it will automatically upload a mission to the vehicle. The mission file must be named "AutoLoad#.mission" where the # is replaced with the vehicle id.
 
 ## Default Mission Item Altitude
 

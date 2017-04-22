@@ -15,7 +15,7 @@ Plan View는 비행체의 자동 미션을 계획하는데 사용합니다. 일�
 3. 미션을 비행체로 전송 (Send the mission to the vehicle)
 4. Fly View로 변경하고 미션 비행 (Change to Fly View and fly your mission)
 
-## Plan Tools
+## Plan 도구들
 화면의 왼쪽 모퉁이에 Plan Tools가 있습니다. 이 툴의 위에서 부터 아래로 :
 
 * Add Commands

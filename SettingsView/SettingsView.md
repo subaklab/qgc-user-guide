@@ -6,7 +6,7 @@ Settings View에서는 QGroundControl 어플리케이션과 관련된 셋팅을 
 
 왼쪽에 있는 버튼을 클릭해서 여러 셋팅 옵션들 사이에 전환이 가능합니다.
 
-### Settings Options
+### Settings 옵션
 
 **General**
 <br>메인 어플리케이션 세팅들
