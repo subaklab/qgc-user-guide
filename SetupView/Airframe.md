@@ -2,7 +2,7 @@
 
 이 페이지에서는 여러분의 비행체와 관련해서 주요 에어프레임 설정에 대해서 알아봅니다. 만약 PX4 Pro 펌웨어나 ArduPilot 펌웨어를 사용하는 경우 이 페이지와 다를 수 있습니다.
 
-## ArduCopter Airfame Setup
+## ArduCopter Airframe Setup
 
 ![](APMAirframe.jpg)
 
@@ -12,7 +12,7 @@
 
 Note: 에어프레임 셋업은 ArduCopter 비행체에서만 가능합니다. 다른 ArduPilot 비행체 에어프레임 셋업은 다루지 않습니다.
 
-## PX4 Pro Airfame Setup
+## PX4 Pro Airframe Setup
 
 ![](PX4Airframe.jpg)
 
