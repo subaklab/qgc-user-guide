@@ -46,7 +46,6 @@ Center Map tool은 home position, 비행체 등과 같은 여러 포인트 주�
 <img src="InstrumentClipPage.jpg" style="width: 100px;"/>
 
 이 페이지는 현재 진동 값과 clip 카운트를 보여줍니다.
-This page show you current vibration values and clip counts.
 
 ## Guided Bar
 화면의 밑부분에 Guided Bar가 있습니다. 비행체와 QGroundControl application과 직접 상호작용하는데 사용합니다. 비행체나 현재 Vehicle 상태에 따라 선택가능한 옵션이 바뀝니다.
