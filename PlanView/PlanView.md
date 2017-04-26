@@ -10,10 +10,10 @@ Plan View는 비행체의 자동 미션을 계획하는데 사용합니다. 일�
 
 미션을 생성하는 단계는 :
 
-1. Plan View로 변경 (Change to Plan View)
-2. 명령을 미션에 추가하고 필요하면 수정 (Add commands to the mission and edit as needed)
-3. 미션을 비행체로 전송 (Send the mission to the vehicle)
-4. Fly View로 변경하고 미션 비행 (Change to Fly View and fly your mission)
+1. Plan View로 변경
+2. 명령을 미션에 추가하고 필요하면 수정
+3. 미션을 비행체로 전송
+4. Fly View로 변경하고 미션 비행
 
 ## Plan 도구들
 화면의 왼쪽 모퉁이에 Plan Tools가 있습니다. 이 툴의 위에서 부터 아래로 :
@@ -48,7 +48,7 @@ Sync 툴은 다음과 같은 기능을 제공합니다 :
 
 ### Mission Command Editors
 
-미션 editor를 보기 위해서 미션 명령을 클릭합니다. editor로 명령의 값을 지정할 수 있습니다. 명령 이름을 클릭하면 명령의 타입도 변경가능합니다. 이렇게 하면 미션을 만들기 위해서 설정 가능한 명령들 중에 선택이 가능합니다 명령 이름의 오른쪽에 메튜를 클릭해서 열 수 있습니다. 이 메뉴로 Insert와 Delete 같은 추가 옵션에 접근할 수 있습니다.
+미션 editor를 보기 위해서 미션 명령을 클릭합니다. editor로 명령의 값을 지정할 수 있습니다. 명령 이름을 클릭하면 명령의 타입도 변경가능합니다. 이렇게 하면 미션을 만들기 위해서 설정 가능한 명령들 중에 선택이 가능합니다. 명령 이름의 오른쪽에 메뉴를 클릭해서 열 수 있습니다. 이 메뉴로 Insert와 Delete 같은 추가 옵션에 접근할 수 있습니다.
 
 ### Planned Home Position
 미션은 항상 관련된 "Planned Home Position"을 가지고 있습니다. 비행체의 home position을 시뮬레이션하는데 사용됩니다. waypoint 라인들이 첫번째 waypoint에 올바르게 연결되어 그려지는지를 봅니다. 미션의 실제 home position은 비행체가 설정하며 "planned" home position과 다를 수 있다는 것을 명심하세요. 미션을 시작한 위치가 "planned"의 위치와 다른 경우입니다.
