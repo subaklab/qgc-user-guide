@@ -24,7 +24,7 @@ Setup View는 처음 비행하기에 앞서 새 비행체를 설정하고 설정
 <br>라디오 컨트로 트랜스미터를 칼리브레이션하세요.
 
 **[Sensors](Sensors.md)**
-<br>비행체에 센서르르 칼리브레이션하세요.
+<br>비행체에 센서를 칼리브레이션하세요.
 
 **[Flight Modes](FlightModes.md)**
 <br>비행모드를 RC 트랜스미터 스위치에 할당
